@@ -1,8 +1,10 @@
 # BNO055.App
 
-**TODO: Add description**
+This is an OTP application to control one or more BNO055 sensors by Bosch. This is an opinionated implementation.
 
-## Installation
+**WIP: development is in progress and not complete**
+
+## Installation (Not yet available)
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `bno055_app` to your list of dependencies in `mix.exs`:
